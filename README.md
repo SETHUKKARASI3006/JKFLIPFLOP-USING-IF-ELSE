@@ -93,4 +93,4 @@ endmodule
 ![output](timingdiagram.png)
 
 ## RESULTS:
-Therefore, a prrogram for flipflops is developed and it's truthtable is verified in quartus using verilog programming.
+Therefore, a program for flipflops is developed and it's truthtable is verified in quartus using verilog programming.
